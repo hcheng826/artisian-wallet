@@ -1,2 +1,2 @@
 # artisian-wallet
-The centralized manageable wallet
+A centralized manageable wallet
